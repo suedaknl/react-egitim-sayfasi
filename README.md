@@ -27,11 +27,13 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyi
    Proje dizininde terminali açın ve gerekli paketleri indirin.
    ```bash
    npm install
+   
 2. Geliştirme Sunucusunu Başlatın:
 Vite geliştirici sunucusunu ayağa kaldırmak için aşağıdaki komutu çalıştırın.
 
 Bash
 npm run dev
+
 3.Projeyi Görüntüleyin:
 Terminalde beliren yerel sunucu adresine (genellikle http://localhost:5173) tarayıcınız üzerinden giderek projeyi inceleyebilirsiniz.
 
@@ -45,6 +47,8 @@ src/
  ├── store/            # Redux Toolkit slice ve store konfigürasyonları
  ├── App.tsx           # Ana uygulama ve Route yapılandırması
  └── index.css         # Tailwind direktifleri ve global stiller
+
 👩‍💻 Geliştirici
+
 Süeda Kanlı Samsun Üniversitesi, Yazılım Mühendisliği
 
